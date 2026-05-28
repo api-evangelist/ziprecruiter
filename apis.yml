@@ -1,0 +1,32 @@
+aid: ziprecruiter
+name: ZipRecruiter
+description: "Job search app and website"
+url: https://www.ziprecruiter.com/publishers
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Jobs"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Jobs
+  - Public APIs
+apis:
+  - name: ZipRecruiter
+    description: "Job search app and website"
+    humanURL: https://www.ziprecruiter.com/publishers
+    baseURL: https://www.ziprecruiter.com/publishers
+    tags:
+      - Jobs
+    properties:
+      - type: Documentation
+        url: https://www.ziprecruiter.com/publishers
+common:
+  - type: Website
+    url: https://www.ziprecruiter.com/publishers
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
