@@ -35,14 +35,21 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Job
   - Public APIs
+  - Recruiting
+  - Job Board
+  - Job Search
+  - Hiring
 tags_raw:
   - Jobs
   - Public APIs
+  - Recruiting
+  - Job Board
+  - Job Search
+  - Hiring
 apis:
   - name: ZipRecruiter
     description: "Job search app and website"
     humanURL: https://www.ziprecruiter.com/publishers
-    baseURL: https://www.ziprecruiter.com/publishers
     tags:
       - Job
     tags_raw:
